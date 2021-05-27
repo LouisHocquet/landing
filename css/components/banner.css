@@ -1,0 +1,17 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.8), 0%,
+  rgba(0,0,0,0.2) 50%), url('../../images/background.png');
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  color: white;
+}
+
+.banner > div {
+  width: 70vw;
+  margin: 0 auto;
+  margin-top: 25vh;
+  max-width: 700px;
+}
+

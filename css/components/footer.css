@@ -1,0 +1,31 @@
+.footer {
+  height: 30vh;
+  background-color: black;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.list-inline {
+  display: block;
+  padding: 0;
+  margin: 0;
+}
+
+.list-inline li{
+  display: inline-block;
+}
+
+.list-inline a {
+  color: rgba(200, 200, 255, 0.5);
+  font-size: 50px;
+  padding: 10px;
+}
+
+.list-inline a:hover {
+  color: rgba(200, 200, 255, 1);
+  font-size: 50px;
+  padding: 10px;
+}
