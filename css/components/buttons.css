@@ -10,7 +10,7 @@
   transition-duration: 0.3s;
 }
 
-.button-blue:hover {
+.button-green:hover {
   background: rgba(100,255,100,1);
   padding: 10px 26px;
   letter-spacing: 0.2px;
