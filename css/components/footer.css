@@ -8,6 +8,10 @@
   justify-content: center;
 }
 
+.footer p {
+  font-size: 16px;
+}
+
 .list-inline {
   display: block;
   padding: 0;
@@ -19,13 +23,13 @@
 }
 
 .list-inline a {
-  color: rgba(200, 200, 255, 0.5);
+  color: rgba(100,255,100,0.7);
   font-size: 50px;
   padding: 10px;
 }
 
 .list-inline a:hover {
-  color: rgba(200, 200, 255, 1);
+  color: rgba(100,255,100,1);
   font-size: 50px;
   padding: 10px;
 }

@@ -25,7 +25,7 @@ a {
 }
 
 p {
-  font-size: 12px;
+  font-size: 14px;
 }
 
 /* Custom design below! */
@@ -50,6 +50,9 @@ body {
   /* For a screen < 720px, this CSS will be read */
   .container {
     width: 500px;
+  }
+  p {
+    font-size: 12px;
   }
 }
 @media (max-width: 540px) {

@@ -3,6 +3,8 @@
   width: 100%;
   justify-content: space-evenly;
   flex-wrap: wrap;
+  margin-bottom: 50px;
+  margin-top: 20px;
 }
 
 .card {

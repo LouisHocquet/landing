@@ -1,11 +1,15 @@
 .banner {
   background-image: linear-gradient(rgba(0,0,0,0.8), 0%,
-  rgba(0,0,0,0.2) 50%), url('../../images/background.png');
+  rgba(0,0,0,0.2) 50%), url('../../images/initiative.jpg');
   background-position: center;
   background-size: cover;
   height: 100vh;
   display: flex;
   color: white;
+}
+
+.banner p {
+  font-size: 16px;
 }
 
 .banner > div {
